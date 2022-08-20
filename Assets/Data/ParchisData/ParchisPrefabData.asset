@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9a9fc6f37b970546a2d9202f66a6da2, type: 3}
+  m_Name: ParchisPrefabData
+  m_EditorClassIdentifier: 
+  tilePrefab: {fileID: 3721370791673366386, guid: 0973183b1904c7b4bbd724f83d158243, type: 3}
+  arrowHeadPrefab: {fileID: 6028962142077102744, guid: 42231defeaeea6f478b2efab7fa7e368, type: 3}
+  startPlacePrefab: {fileID: 7152410309848595110, guid: 0e8b4938e24eb7844a1191f866a6ce10, type: 3}
+  startTilePrefab: {fileID: 3721370791673366386, guid: 52c8de061dc12844ab53bd3ee56b0c7f, type: 3}
+  safeTilePrefab: {fileID: 3721370791673366386, guid: dc57f30ab1c54844cabbe02121b986a0, type: 3}
+  toHomeTilePrefab: {fileID: 3721370791673366386, guid: dd8b85cf06303c14f9e3d30fc0ce377e, type: 3}

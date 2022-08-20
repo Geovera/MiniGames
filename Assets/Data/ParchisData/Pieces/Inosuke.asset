@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2f772e22b4702e45a3f9b32642c5cb0, type: 3}
+  m_Name: Inosuke
+  m_EditorClassIdentifier: 
+  pieceName: Inosuke
+  pieceTexture: {fileID: 2800000, guid: ca5455b7fdc969841a6fbe4781d0a393, type: 3}
+  piecePrefab: {fileID: 5169072038406072478, guid: e6e0a2481cce3b04c9331d41b0764dbe, type: 3}
+  deathClip: {fileID: 8300000, guid: 802f1e2afceb63343833f414764cb6f8, type: 3}
+  victoryClip: {fileID: 8300000, guid: 89a03ad611ce46e44b3904199ca54905, type: 3}

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2f772e22b4702e45a3f9b32642c5cb0, type: 3}
+  m_Name: RumblingBojji
+  m_EditorClassIdentifier: 
+  pieceName: Rumbling Bojji
+  pieceTexture: {fileID: 2800000, guid: 9e04a0b5726bcec44a1b6800270d964c, type: 3}
+  piecePrefab: {fileID: 8292825311549889730, guid: 1d82b77f04e28804e9b1898fbcce1983, type: 3}
+  deathClip: {fileID: 8300000, guid: 802f1e2afceb63343833f414764cb6f8, type: 3}
+  victoryClip: {fileID: 8300000, guid: e30bfd89273de9540bedc7cc4f278b8b, type: 3}

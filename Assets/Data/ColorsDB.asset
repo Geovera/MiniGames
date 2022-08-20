@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4e4ce9c514c9194caff7a1d52f82d6c, type: 3}
+  m_Name: ColorsDB
+  m_EditorClassIdentifier: 
+  colorsDic:
+    reorderableList:
+      canAdd: 1
+      canRemove: 1
+      draggable: 1
+      expandable: 1
+      multipleSelection: 1
+      isExpanded: 1
+      label:
+        m_Text: Keys
+        m_Image: {fileID: 0}
+        m_Tooltip: 
+      headerHeight: 18
+      footerHeight: 13
+      slideEasing: 0.15
+      verticalSpacing: 2
+      showDefaultBackground: 1
+      elementDisplayType: 0
+      elementNameProperty: 
+      elementNameOverride: 
+      elementIcon: {fileID: 0}
+    reqReferences: {fileID: 0}
+    isExpanded: 1
+    _keyValues: 00000000010000000200000003000000
+    _keys: 00000000010000000200000003000000
+    _values:
+    - color: 0
+      baseColorMat: {fileID: 2100000, guid: f6c3268f466348a49bdd86a9950683e7, type: 2}
+      homeColorMat: {fileID: 2100000, guid: d61eb90aaaec42b4e877232eb3fa737d, type: 2}
+      startBaseColorMat: {fileID: 2100000, guid: b486648891babed42aa8451ab57df1b7, type: 2}
+    - color: 1
+      baseColorMat: {fileID: 2100000, guid: e65f36a4caa74af49b0b5b46891d38f1, type: 2}
+      homeColorMat: {fileID: 2100000, guid: e265a67274d502e4ab49956d405ab28a, type: 2}
+      startBaseColorMat: {fileID: 2100000, guid: 391eb82d5befc1948b81d02b00a4c961, type: 2}
+    - color: 2
+      baseColorMat: {fileID: 2100000, guid: 2dd7fad0709ef2b4cb7397b20519c319, type: 2}
+      homeColorMat: {fileID: 2100000, guid: 37d7414d7e0f5804ba5fecb3ea791bb7, type: 2}
+      startBaseColorMat: {fileID: 2100000, guid: 7ac53e1c2015fbc44afcaaefc1b1dfad, type: 2}
+    - color: 3
+      baseColorMat: {fileID: 2100000, guid: 97284753c882e064caf8c0214ef09721, type: 2}
+      homeColorMat: {fileID: 2100000, guid: 21e42cb7e497d1441a5e919e24e4dcf9, type: 2}
+      startBaseColorMat: {fileID: 2100000, guid: 6471acd90e617cb4092312cf73b1174b, type: 2}
